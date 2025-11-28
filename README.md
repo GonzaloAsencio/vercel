@@ -22,7 +22,7 @@ Este repositorio contiene el **build de producción** del proyecto "El Coleccion
 
 Para ver el código fuente completo, documentación técnica y arquitectura del sistema:
 
-**[]([[https://github.com/TU_USUARIO/TU_REPO_PRINCIPA](https://github.com/GonzaloAsencio/project-new-light)L](https://github.com/GonzaloAsencio/project-new-light))**
+**[[GitHub](https://github.com/GonzaloAsencio/project-new-light))**
 
 ## 💡 Cómo Usar
 

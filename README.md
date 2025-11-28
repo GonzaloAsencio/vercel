@@ -11,20 +11,20 @@ Este repositorio contiene el **build de producción** del proyecto "El Coleccion
 - **Conversación natural** - Powered by Groq LLM (Llama 3.3 70B)
 - **Voz realista** - ElevenLabs Text-to-Speech
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 - **Frontend:** Unity WebGL + Ready Player Me
 - **Backend:** Node.js + Express ([BACKEND](https://github.com/GonzaloAsencio/avatar-backend))
 - **APIs:** Groq (LLM) + ElevenLabs (STT/TTS)
 - **Deploy:** Vercel (frontend) + Render (backend)
 
-## 📂 Repositorio Completo
+## Repositorio Completo
 
 Para ver el código fuente completo, documentación técnica y arquitectura del sistema:
 
-**[[FRONTEND](https://github.com/GonzaloAsencio/project-new-light))**
+**([FRONTEND](https://github.com/GonzaloAsencio/project-new-light))**
 
-## 💡 Cómo Usar
+## Cómo Usar
 
 1. Haz clic en el botón **"Start"** (se pondrá rojo cuando esté activo)
 2. **Opción A - Voz:** Mantén presionado el botón de micrófono y habla (ej: "Cuéntame sobre Charizard")

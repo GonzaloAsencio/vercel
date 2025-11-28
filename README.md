@@ -14,7 +14,7 @@ Este repositorio contiene el **build de producción** del proyecto "El Coleccion
 ## 🛠️ Stack Tecnológico
 
 - **Frontend:** Unity WebGL + Ready Player Me
-- **Backend:** Node.js + Express ([GitHub](https://github.com/GonzaloAsencio/avatar-backend))
+- **Backend:** Node.js + Express ([REPO DEL SERVER](https://github.com/GonzaloAsencio/avatar-backend))
 - **APIs:** Groq (LLM) + ElevenLabs (STT/TTS)
 - **Deploy:** Vercel (frontend) + Render (backend)
 
@@ -22,7 +22,7 @@ Este repositorio contiene el **build de producción** del proyecto "El Coleccion
 
 Para ver el código fuente completo, documentación técnica y arquitectura del sistema:
 
-**[[GitHub](https://github.com/GonzaloAsencio/project-new-light))**
+**[[REPO DEL FRONT](https://github.com/GonzaloAsencio/project-new-light))**
 
 ## 💡 Cómo Usar
 
